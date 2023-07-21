@@ -1,0 +1,3 @@
+Belajar Branch
+-Branch merupakan cabang dari branch master/jalur utama dari repositori.
+-Branch itu digunakan ketika membuat file/fitur baru tapi tidak mengganggu jalur utamanya.
