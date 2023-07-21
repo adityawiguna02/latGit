@@ -1,3 +1,4 @@
 Belajar Branch
 -Branch merupakan cabang dari branch master/jalur utama dari repositori.
+-Merge conflict merupakan keadaan ketika ingin menggabungkan branch baru ke branch utama tapi tidak bisa dilakukan karena ada perubahan pada baris yang sama 
 -Branch itu digunakan ketika membuat file/fitur baru tapi tidak mengganggu jalur utamanya.
